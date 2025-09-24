@@ -4,3 +4,15 @@
 .header h1{
     font-size:larger;
 }
+.jobheader .title{
+margin-right:10px;
+}
+.jobheader .company{
+    margin-right:10px;
+}
+.jobheader .location{
+    margin-right:10px;
+}
+.jobheader .date{
+    margin-right:10px;
+}
