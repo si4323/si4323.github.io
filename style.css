@@ -17,5 +17,8 @@ margin-right:10px;
     margin-right:10px;
 }
 .project img{
-    width:200px;
+    height:600px;
+}
+body{
+    background-color: darkgray;
 }
